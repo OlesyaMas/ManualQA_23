@@ -23,6 +23,7 @@ p {
 }
 
 div {
+    background-color: lightblue;
     padding-top: 10px;
     padding-right: 5px;
     padding-bottom: 10px;
