@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    font-weight: 700;
+    font-style: oblique 45deg;
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+p {
+    color: rgb(173, 34, 173);
+}
+
+#summary {
+    color: grey;
+}
+
+.highlight {
+    color: rgb(50, 50, 218);
+}
+
+table, tr, td {
+    border: 1px solid black;
+    width: 100%;
+}
+
+body {
+    background-image: url(../images/forBack.png);
+    background-position: center;
+    background-size: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+div {
+    border: 2px solid rgb(156, 36, 156);
+    background-color: rgb(232, 217, 236);
+    padding: 20px;
+}
