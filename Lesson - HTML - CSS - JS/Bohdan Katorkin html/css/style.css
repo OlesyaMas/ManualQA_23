@@ -25,7 +25,31 @@ img {
 }
 
 #summary {
-    background-color: #060b1888;
+    background-color: #20030388;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#contacts {
+    background-color: #20030388;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#education{
+    background-color: #20030388;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#tech-skills {
+    background-color: #20030388;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#soft-skills{
+    background-color: #20030388;
     padding: 10px;
     margin-bottom: 20px;
 }
