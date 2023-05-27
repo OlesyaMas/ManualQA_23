@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://pibig.info/uploads/posts/2022-08/thumbs/1659389933_1-pibig-info-p-krasivii-fon-s-babochkami-krasivo-1.jpg);
+    background-position: center;
+    background-size: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+
+h1 {
+    color:rgb(10, 10, 202);
+}
+
+h3 {
+    color: green;
+}
+
+img {
+    width: 400px;
+    border: 1px solid rgb(65, 148, 73);
+}
+
+div {
+    margin: 8px;
+    padding: 50px;px;
+
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+hr {
+    border: 1px solid black;
+}
