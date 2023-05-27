@@ -1,0 +1,34 @@
+h1 {
+    color: blueviolet;
+    font-size: 700;
+    font-style: italic;
+    font-size: 26px;
+    text-decoration: underline;
+}
+p {
+    color: rgb(247, 3, 3);
+}
+#summary {
+    color: rgb(37, 3, 205);
+}
+.highlight {
+    color: blueviolet;
+}
+table, tr, td {
+    border: 1px solid black;
+    width: 20%;
+}
+
+body {
+    background-image: url(../images/9918de5a179cce35f5a48a4586ef26b5.jpg);
+    background-position: center;
+    background-size: 100%;
+
+}
+
+div{
+border: 2px solid red;
+background-color: rgb(216, 196, 166);
+padding: 20px;
+margin: 20px;
+} 
