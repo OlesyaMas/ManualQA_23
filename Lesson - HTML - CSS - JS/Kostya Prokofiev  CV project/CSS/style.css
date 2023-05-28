@@ -7,7 +7,7 @@ h1 {
 }
 
 p {
-    color: rgb(196, 35, 196);
+    color: rgb(35, 196, 97);
 }
 
 #summary {
@@ -15,16 +15,19 @@ p {
 }
 
 .highlight {
-    color: rgb(50, 50, 218);
+    color: rgb(218, 50, 162);
 }
 
-table, tr, td {
-    border: 1px solid black;
-    width: 100%;
+table,
+tr,
+td {
+    border: 1px solid rgb(233, 37, 37);
+    width: 50%;
+    border-style: dashed;
 }
 
 body {
-    background-image: url(../images/forBack.png);
+    background-image: url(../images/istockphoto-1457056263-1024x1024.jpg);
     background-position: center;
     background-size: 100%;
     display: grid;
@@ -32,7 +35,8 @@ body {
 }
 
 div {
-    border: 2px solid rgb(156, 36, 156);
-    background-color: rgb(232, 217, 236);
+    border: 2px solid rgb(26, 78, 146);
+    background-color: rgba(228, 202, 86, 0.24);
     padding: 20px;
+    margin: 5px;
 }
