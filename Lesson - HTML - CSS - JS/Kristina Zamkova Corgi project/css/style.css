@@ -1,0 +1,60 @@
+h1 {
+    color:darkblue;
+    font-weight: 800;
+    font-style: italic;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+h2 {
+    color:mediumslateblue;
+    font-weight: 900;
+    font-style:normal;
+    font-size: large;
+}
+
+p {
+    color:darkgreen;
+}
+
+#varietiesoftheCorgibreed {
+    color:darkblue;
+}
+
+#apetthat {
+    color:chocolate;
+    text-align: center;
+}
+
+.highlight {
+    color:burlywood;
+}
+body {
+    background-image: url(../images/backgroundgreensmokebillowsof.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+
+div {
+    border: 2px solid goldenrod;
+    background-color: lightsteelblue;
+    padding: 20px;
+}
+
+#learn {
+    color:crimson;
+    text-decoration:underline;
+}
+
+.wrap {
+    width: 2000px;
+    height: 2000px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.photo {
+    width: 250px;
+}
+
+   
