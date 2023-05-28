@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(166, 26, 91);
+    font-weight: 900;
+    font-style: italic;
+    font-size: 40px;
+}
+
+h2 {
+    color: chocolate;
+    text-decoration: underline;
+}
+
+h3 {
+    color: rgb(26, 4, 153);
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+p{
+    color: rgb(122, 24, 133);
+}
+
+#coat{
+    color: rgb(129, 36, 216);
+}
+
+.highlight{
+    color: rgb(56, 174, 182);
+}
+
+table, tr, td {
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-left: 1 px solid black;
+border-right: 1 px solid black;
+border-width: thin;
+border-color: black;
+border-style: dashed;
+width: 75%;
+}
+
+body{
+    background-image: url(../images/fon.jpg);
+    background-position: center;
+    background-size: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+div {
+    border: 2px solid rgb(211, 97, 211);
+    background-color: rgb(250, 234, 255);
+    padding: 5px;
+
+}
