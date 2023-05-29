@@ -1,0 +1,69 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(92, 39, 105);
+    font-weight: 900;
+    font-size: 38px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    }
+
+p {
+    color: rgba(61, 6, 109, 0.836);
+    font-weight: 900
+}
+
+#summary {
+    color: rgb(133, 5, 64);
+}
+
+#tech {
+    color: rgb(149, 163, 22);
+}
+
+#soft {
+    font-family: URW Chancery L, cursive;
+    color: rgb(165, 42, 138);
+}
+
+#hobb {
+    font-family: Bradley Hand, cursive;
+    color: bisque;
+}
+
+.cl1 {
+    color: rgb(15, 23, 134);
+    font-weight: 900
+}
+
+.cl2 {
+    color: rgb(185, 218, 39);
+}
+
+table,
+tr,
+td {
+    /* border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-width: thin;
+    border-style: dotted; */
+
+    border: 2px dotted black;
+    width: 65%;
+}
+
+body {
+    background-image: url(css.images/ligt1.jpg);
+    background-position: center;
+    background-size: cover;
+    }
+
+    div {
+        border: 4px solid rgb(68, 41, 145);
+        padding: 20px;
+        margin: 25px;
+    }
