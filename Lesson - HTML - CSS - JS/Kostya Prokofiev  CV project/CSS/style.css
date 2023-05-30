@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+    font-weight: 700;
+    font-style: oblique 45deg;
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+p {
+    color: rgb(35, 196, 97);
+}
+
+#summary {
+    color: grey;
+}
+
+.highlight {
+    color: rgb(218, 50, 162);
+}
+
+table,
+tr,
+td {
+    border: 1px solid rgb(233, 37, 37);
+    width: 50%;
+    border-style: dashed;
+}
+
+body {
+    background-image: url(../images/istockphoto-1457056263-1024x1024.jpg);
+    background-position: center;
+    background-size: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+div {
+    border: 2px solid rgb(26, 78, 146);
+    background-color: rgba(228, 202, 86, 0.24);
+    padding: 20px;
+    margin: 5px;
+}
